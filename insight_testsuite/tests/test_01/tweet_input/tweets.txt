@@ -1,0 +1,1 @@
+{"created_at": "Mon Mar 28 23:23:12 +0000 2016","entities": {"hashtags": [{"text": "hiring","indices": [44, 51]	}, {"text": "PaloAlto","indices": [55, 64]}, {	"text": "Healthcare",	"indices": [113, 124]	}, {	"text": "Job",	"indices": [125, 129]	}, {	"text": "Jobs",	"indices": [130, 135]	}]}}

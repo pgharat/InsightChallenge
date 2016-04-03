@@ -1,0 +1,9 @@
+{"created_at": "Thu Mar 24 17:51:10 +0000 2016","entities": {"hashtags": [{"text": "Spark","indices": [44, 51]	}, {"text": "Apache","indices": [55, 64]}]}}
+{"created_at": "Thu Mar 24 17:51:15 +0000 2016","entities": {"hashtags": [{"text": "Storm","indices": [44, 51]	}, {"text": "Apache","indices": [55, 64]}, {"text": "Hadoop","indices": [55, 64]}]}}
+{"created_at": "Thu Mar 24 17:51:30 +0000 2016","entities": {"hashtags": [{"text": "Apache","indices": [44, 51] }	]}} 
+{"created_at": "Thu Mar 24 17:51:55 +0000 2016","entities": {"hashtags": [{"text": "Spark","indices": [44, 51] }	,{"text": "Flink","indices": [44, 51] }]}} 
+{"created_at": "Thu Mar 24 17:51:58 +0000 2016","entities": {"hashtags": [{"text": "Spark","indices": [44, 51] }	,{"text": "Hbase","indices": [44, 51] }]}} 
+{"created_at": "Thu Mar 24 17:52:12 +0000 2016","entities": {"hashtags": [{"text": "Hadoop","indices": [44, 51] }	,{"text": "Apache","indices": [44, 51] }]}} 
+{"created_at": "Thu Mar 24 17:52:10 +0000 2016","entities": {"hashtags": [{"text": "Flink","indices": [44, 51] }	,{"text": "Hbase","indices": [44, 51] }]}} 
+{"created_at": "Thu Mar 24 17:51:10 +0000 2016","entities": {"hashtags": [{"text": "Cassandra","indices": [44, 51] }	,{"text": "NoSQL","indices": [44, 51] }]}}
+{"created_at": "Thu Mar 24 17:52:20 +0000 2016","entities": {"hashtags": [{"text": "Kafka","indices": [44, 51] }	,{"text": "Apache","indices": [44, 51] }]}}
